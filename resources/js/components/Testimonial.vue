@@ -68,7 +68,7 @@ import _ from 'lodash';
                     console.log(this.testimonials);
                 })
                 .catch((error)=>{
-                    alert('error');
+                    alert('error'); 
                     console.log(error);
                 });
         },
